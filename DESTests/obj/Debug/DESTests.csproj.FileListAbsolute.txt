@@ -1,0 +1,7 @@
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\obj\Debug\DESTests.csprojResolveAssemblyReference.cache
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\bin\Debug\DESTests.dll
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\bin\Debug\DESTests.pdb
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\bin\Debug\DES.exe
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\bin\Debug\DES.pdb
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\obj\Debug\DESTests.dll
+C:\Users\Hristakis\documents\visual studio 2012\Projects\DES\DESTests\obj\Debug\DESTests.pdb

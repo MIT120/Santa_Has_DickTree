@@ -1,0 +1,6 @@
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\Day1V3\bin\Debug\Day1V3.exe.config
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\Day1V3\bin\Debug\Day1V3.exe
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\Day1V3\bin\Debug\Day1V3.pdb
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\Day1V3\obj\Debug\Day1V3.csprojResolveAssemblyReference.cache
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\Day1V3\obj\Debug\Day1V3.exe
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\Day1V3\obj\Debug\Day1V3.pdb

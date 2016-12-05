@@ -1,0 +1,12 @@
+D:\OneDrive\Programming\Visual Studio 2015\Projects\AdventOfCode\Day1\Day1\bin\Debug\Day1.exe.config
+D:\OneDrive\Programming\Visual Studio 2015\Projects\AdventOfCode\Day1\Day1\bin\Debug\Day1.exe
+D:\OneDrive\Programming\Visual Studio 2015\Projects\AdventOfCode\Day1\Day1\bin\Debug\Day1.pdb
+D:\OneDrive\Programming\Visual Studio 2015\Projects\AdventOfCode\Day1\Day1\obj\Debug\Day1.csprojResolveAssemblyReference.cache
+D:\OneDrive\Programming\Visual Studio 2015\Projects\AdventOfCode\Day1\Day1\obj\Debug\Day1.exe
+D:\OneDrive\Programming\Visual Studio 2015\Projects\AdventOfCode\Day1\Day1\obj\Debug\Day1.pdb
+F:\Documents\GitHub\AdventOfCode\Day 1\Day1\bin\Debug\Day1.exe.config
+F:\Documents\GitHub\AdventOfCode\Day 1\Day1\obj\Debug\Day1.exe
+F:\Documents\GitHub\AdventOfCode\Day 1\Day1\obj\Debug\Day1.pdb
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\AdventOfCode-master\Day 1\Day1\bin\Debug\Day1.exe.config
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\AdventOfCode-master\Day 1\Day1\obj\Debug\Day1.exe
+C:\Users\matah\Documents\Santa_Has_DickTree\Day1V3\AdventOfCode-master\Day 1\Day1\obj\Debug\Day1.pdb
